@@ -1,0 +1,17 @@
+[
+    {"id": 1, "question": "What is overfitting?"},
+    {"id": 2, "question": "Explain the bias-variance tradeoff."},
+    {"id": 3, "question": "Compare CNN and RNN."},
+    {"id": 4, "question": "What is gradient descent?"},
+    {"id": 5, "question": "What is regularization?"},
+    {"id": 6, "question": "Difference between L1 and L2 regularization?"},
+    {"id": 7, "question": "What is a confusion matrix?"},
+    {"id": 8, "question": "Explain LSTM networks."},
+    {"id": 9, "question": "What is a p-value?"},
+    {"id": 10, "question": "What is a SQL JOIN?"},
+    {"id": 11, "question": "Difference between INNER and LEFT JOIN?"},
+    {"id": 12, "question": "What is a window function in SQL?"},
+    {"id": 13, "question": "What is Pandas used for?"},
+    {"id": 14, "question": "What is NumPy?"},
+    {"id": 15, "question": "What is the top revenue product?"}
+]
